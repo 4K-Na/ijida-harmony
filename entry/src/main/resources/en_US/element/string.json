@@ -1,0 +1,28 @@
+{
+  "string": [
+    {
+      "name": "module_desc",
+      "value": "iJida for HarmonyOS"
+    },
+    {
+      "name": "EntryAbility_desc",
+      "value": "iJida Campus Portal"
+    },
+    {
+      "name": "EntryAbility_label",
+      "value": "iJida"
+    },
+    {
+      "name": "reason_camera",
+      "value": "For QR scan, photo upload and ID capture"
+    },
+    {
+      "name": "reason_location",
+      "value": "For campus location and attendance"
+    },
+    {
+      "name": "reason_media",
+      "value": "For uploading avatar and attachments"
+    }
+  ]
+}

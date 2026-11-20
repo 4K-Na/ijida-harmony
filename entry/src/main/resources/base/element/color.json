@@ -1,0 +1,52 @@
+{
+  "color": [
+    {
+      "name": "start_window_background",
+      "value": "#F5F4EE"
+    },
+    {
+      "name": "item_title_font",
+      "value": "#E61F1E1D"
+    },
+    {
+      "name": "brand",
+      "value": "#C96442"
+    },
+    {
+      "name": "danger",
+      "value": "#B33A2B"
+    },
+    {
+      "name": "page_bg",
+      "value": "#F5F4EE"
+    },
+    {
+      "name": "card_bg",
+      "value": "#FFFFFF"
+    },
+    {
+      "name": "card_bg_2",
+      "value": "#FBF1EA"
+    },
+    {
+      "name": "border",
+      "value": "#E6DFD3"
+    },
+    {
+      "name": "text_primary",
+      "value": "#1F1E1D"
+    },
+    {
+      "name": "text_secondary",
+      "value": "#6C6A64"
+    },
+    {
+      "name": "text_tertiary",
+      "value": "#B8AFA4"
+    },
+    {
+      "name": "separator",
+      "value": "#EEE8DE"
+    }
+  ]
+}

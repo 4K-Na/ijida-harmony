@@ -1,0 +1,16 @@
+/.hvigor/
+/.idea/
+/.cxx/
+/build/
+**/build/
+/oh_modules/
+**/oh_modules/
+/node_modules/
+local.properties
+*.hap
+*.hsp
+*.har
+*.logs
+*.log
+.DS_Store
+Thumbs.db

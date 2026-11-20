@@ -1,0 +1,28 @@
+{
+  "string": [
+    {
+      "name": "module_desc",
+      "value": "i集大鸿蒙"
+    },
+    {
+      "name": "EntryAbility_desc",
+      "value": "i集大鸿蒙 校园综合服务平台"
+    },
+    {
+      "name": "EntryAbility_label",
+      "value": "i集大鸿蒙"
+    },
+    {
+      "name": "reason_camera",
+      "value": "用于扫码、拍照上传与证件识别"
+    },
+    {
+      "name": "reason_location",
+      "value": "用于校区定位与考勤签到"
+    },
+    {
+      "name": "reason_media",
+      "value": "用于上传头像与附件"
+    }
+  ]
+}
